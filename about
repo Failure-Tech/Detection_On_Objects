@@ -1,0 +1,5 @@
+This project is about using computer vision to detect license plates and find the exact number 
+when held up to a camera. I use object detection and an optical character recognition algorithm
+to do this. Basically, we need to run object detection by accessing the camera and having it detect 
+text on objects. There is still a little more to work as I would rather have my own custom ocr 
+detection algorithm but for now, this works well.
