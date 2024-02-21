@@ -99,7 +99,6 @@ import cv2
 import time
 import easyocr
 import csv
-
 class ObjectDetection:
     def __init__(self):
         self.model = self.load_model()
