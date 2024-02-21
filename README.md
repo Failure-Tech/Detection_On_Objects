@@ -1,0 +1,1 @@
+This project is basically about how I implemented an object detection algorithm with yolov5 and also working on a custom optical character recognition algorithm that can detect characters/words and save it in a csv after the run is over. 
